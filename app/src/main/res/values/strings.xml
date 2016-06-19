@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusConnect06</string>
+    <string name="search_title">Rechercher</string>
+    <string name="search_hint">Nom ou numéro d\'arrêt</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="no_schedule">Aucun horaire à afficher</string>
+</resources>
